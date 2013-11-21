@@ -1,0 +1,4 @@
+bankogen
+========
+
+Bankopladegenerator.
