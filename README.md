@@ -23,3 +23,11 @@ Afhængigheder
 
 * Inkscape
 * pdfjam
+
+
+Ophavsret
+=========
+
+Copyright (c) 2013, 2020 Niels G. W. Serup
+
+Licens: AGPLv3+
